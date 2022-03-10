@@ -2,7 +2,7 @@ NBA Report: What factors influence success? : A study based on the NBA
 
 Report Overview
 
-This report was submitted in February 2021 as part of my Master's in Data Science and Analytics (Cardiff University). 
+This report was submitted in February 2021 as part of my Master's in Data Science and Analytics (Cardiff University). Template for R markdown report (lines 1- within NBA_code file) provided by Evans, D and Gauthier, B. (2021, Cardiff University).
 
 The R programming language was used to calculate the statistics and generate the visualisations. 
 
